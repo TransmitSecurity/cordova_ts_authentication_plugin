@@ -1,0 +1,11 @@
+.DS_Store
+
+# Xcode user-specific workspace state
+**/xcuserdata/
+
+# Local customer-dist output from scripts/build_plugin.sh
+cordova-ts-authentication/
+
+# Override the global ignore: this CLAUDE.md is repo-level guidance for
+# Claude Code sessions and is intended to be committed.
+!CLAUDE.md
