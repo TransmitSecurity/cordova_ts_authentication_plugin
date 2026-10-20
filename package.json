@@ -1,0 +1,34 @@
+{
+  "name": "cordova-ts-authentication",
+  "version": "1.0.0",
+  "description": "Transmit Security Authentication (A+) Cordova plugin for iOS and Android",
+  "cordova": {
+    "id": "cordova-ts-authentication",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "cordova-ios",
+    "cordova-android",
+    "ios",
+    "android",
+    "transmitsecurity",
+    "authentication",
+    "passkeys",
+    "webauthn",
+    "biometrics",
+    "totp"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": {
+        "cordova-ios": ">=8.0.0",
+        "cordova-android": ">=12.0.0"
+      }
+    }
+  },
+  "license": "MIT"
+}
